@@ -1,5 +1,7 @@
 # Personal Projects
 
+Key
+
 + Project name
 + Link to the repo
 + Project details
@@ -10,6 +12,7 @@
 ## **Front End Projects**
 
 1. 
+
 2. 
 3. 
 
@@ -19,6 +22,10 @@
 
 ## **Android Personal project**
 
-1. ### Finance Village
-    ### Repo Link
-    [Finance Village](https://github.com/BrianLusina/FinanceVillage)
+1. Finance Village
+
+Repo Link [Finance Village](https://github.com/BrianLusina/FinanceVillage)
+Project Details:
+Features: 
+Tools: 
+Contributors: [Brian Lusina](https://github.com/BrianLusina/)
