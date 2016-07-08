@@ -14,14 +14,14 @@
 
 ## **Android Personal project**
 
-1. Finance Village
+1. ###Finance Village
 
-Repo Link [Finance Village](https://github.com/BrianLusina/FinanceVillage)
+  Repo Link [Finance Village](https://github.com/BrianLusina/FinanceVillage)
 
-Project Details: Kenyan securities tracking application with emphasis on th NSE
+  Project Details: Kenyan securities tracking application with emphasis on th NSE
 
-Features: Material Cards, Navigation Drawer, Collapsible Navbar
+  Features: Material Cards, Navigation Drawer, Collapsible Navbar
 
-Tools: CurrencyLayer API, JSOUP Parser
+  Tools: CurrencyLayer API, JSOUP Parser
 
-Contributors: [Brian Lusina](https://github.com/BrianLusina/)
+  Contributors: [Brian Lusina](https://github.com/BrianLusina/)
