@@ -1,16 +1,24 @@
-# Projects
+# Personal Projects
 
-Repo containing projects done:
-
-+ 3 Front End personal web projects
-+ 1 Python personal project
-+ 1 Android personal project
-
-Every ReadMe contains:
-
-+ Project name,
-+ link to the repo
-+ project details
-+ features
-+ tools used
++ Project name
++ Link to the repo
++ Project details
++ Features
++ Tools used
 + Contributors
+
+## **Front End Projects**
+
+1. 
+2. 
+3. 
+
+## **Python personal project**
+
+1. 
+
+## **Android Personal project**
+
+1. ### Finance Village
+    ### Repo Link
+    [Finance Village](https://github.com/BrianLusina/FinanceVillage)
