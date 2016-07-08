@@ -1,19 +1,11 @@
 # Personal Projects
 
-Key
-
-+ Project name
-+ Link to the repo
-+ Project details
-+ Features
-+ Tools used
-+ Contributors
-
 ## **Front End Projects**
 
 1. 
 
 2. 
+
 3. 
 
 ## **Python personal project**
@@ -25,7 +17,7 @@ Key
 1. Finance Village
 
 Repo Link [Finance Village](https://github.com/BrianLusina/FinanceVillage)
-Project Details:
-Features: 
-Tools: 
+Project Details: Kenyan securities tracking application with emphasis on th NSE
+Features: Material Cards, Navigation Drawer, Collapsible Navbar
+Tools: CurrencyLayer API, JSOUP Parser
 Contributors: [Brian Lusina](https://github.com/BrianLusina/)
