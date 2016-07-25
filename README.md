@@ -2,7 +2,7 @@
   
   Repo Link: [Lu's Portfolio](https://github.com/BrianLusina/Lu-s-Portfolio)
   
-  Website Link: [Site Link](http://www.https//brianlusina.github.io/Lu-s-Portfolio)
+  Website Link: [Site Link](https://brianlusina.github.io/Lu-s-Portfolio/)
   
   List of projects done:
   
