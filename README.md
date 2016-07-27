@@ -34,7 +34,18 @@
   
   Contributors: [Brian Lusina](https://github.com/BrianLusina/)
 
-3. 
+3. ###Finance Village Web
+  
+  Repo Link: [Finance Village Web](https://github.com/BrianLusina/Finance-Village-Web)
+  
+  Project Details: A simple finance website displaying information about financial matters as well as keeping track of the market(s).
+  
+  Features: Responsive sidebar navigations, Material Cards, Sweet Alert Dialogs, Material message container
+
+  Tools: Google Font API, Modernizr Javascript Framework, Materialize Web Framework, jQuery 2.2.4, jQuery UI 1.11.4, SweetAlert Dialogs
+  
+  Contributors: [Brian Lusina](https://github.com/BrianLusina/)
+
 
 ## **Python personal project**
 
